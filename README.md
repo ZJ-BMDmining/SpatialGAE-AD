@@ -90,4 +90,4 @@ python SpatialGAE-AD.py --dataset_str ACT --phenotype CERAD --isCCA False
 
 ## Sample similarity networks
 
-![sample similarity networks](./sample similarity networks)
+![sample similarity networks](./sample_similarity_networks)
